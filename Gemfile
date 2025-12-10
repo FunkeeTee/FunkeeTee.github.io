@@ -3,5 +3,5 @@
 source "https://rubygems.org"
 
 # gem "rails"
-gem "webrick" 
-gem "jekyll", "~> 4.2"
+
+gem "jekyll", "~> 4.4"
